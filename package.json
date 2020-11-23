@@ -1,0 +1,27 @@
+{
+  "name": "vue3-upload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/azjfeng/vue3-upload.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/azjfeng/vue3-upload/issues"
+  },
+  "homepage": "https://github.com/azjfeng/vue3-upload#readme",
+  "dependencies": {
+    "koa": "^2.13.0",
+    "koa-body": "^4.2.0",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "koa-views": "^6.3.1",
+    "mysql": "^2.18.1"
+  }
+}
