@@ -16,7 +16,7 @@
             var origin  = window.location.origin;
            $.ajax({
                type:'post',
-               url:origin+"upload",
+               url:origin+"/upload",
                success:function(res){
                    console.log(res)
                }
