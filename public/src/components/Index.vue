@@ -48,7 +48,7 @@
           >
             <td>{{item.id}}</td>
             <td>{{item.url}}</td>
-            <td><img :src="item.url" alt=""></td>
+            <td><img :src="item.url" alt="" style="width:50px;height:auto"></td>
             <td>{{item.time}}</td>
             <td>{{item.time}}</td>
           </tr>
